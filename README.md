@@ -1,7 +1,7 @@
 # Software Lab Project
 GitHub repository for group project for Software Engineering and Design Lab course.
 
-Visit our web app: project-7c58f135184e.herokuapp.com
+Visit our web app: https://swproject-7c58f135184e.herokuapp.com/login
 
 Dev Guide:
 commands to run: npm install, pip install -r requirements.txt 
